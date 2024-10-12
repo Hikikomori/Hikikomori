@@ -1,8 +1,8 @@
-## Привет ! 👋
+# Привет ! 👋
 
 Меня зовут Максим, я frontend-разработчик с уклоном в TypeScript и React.
 
-### Немного обо мне
+## Немного обо мне
 
 Мой путь во Frontend начался, наверное как и у всех, с осознания того что мне интересно этим заниматься и я получаю удовольствие от достижения видимого результата (кстати именно поэтому Frontend а не Backend)
 
@@ -10,7 +10,7 @@
 
 Имеется опыт наставничества на курсах HTML Academy (2019-2023 гг.)
 
-### Технологии и продукты, которые я использую
+## Технологии и продукты, которые я использую
 
 <div>
   <img src='assets/icons/HTML.svg' title='HTML' alt='HTML' height='40'>  
@@ -36,11 +36,11 @@
   <img src='assets/icons/Photoshop.svg' title='Photoshop' alt='Photoshop' height='40'>  
   <img src='assets/icons/Illustrator.svg' title='Illustrator' alt='Illustrator' height='40'>  
   <img src='assets/icons/Zeplin.svg' title='Zeplin' alt='Zeplin' height='40'>  
-  <img src='assets/icons/Github.svg' title='Github' alt='Github' height='40'>  
-  <img src='assets/icons/Gitlab.svg' title='Gitlab' alt='Gitlab' height='40'>
+  <img src='assets/icons/GitHub.svg' title='Github' alt='Github' height='40'>  
+  <img src='assets/icons/GitLab.svg' title='Gitlab' alt='Gitlab' height='40'>
 </div>
 
-### Проекты
+## Проекты
 
 | Название                 |                                                                                                                        | Год | Тип                                   | Описание                                                                                                 | Стек                                                                                                              |
 | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------ | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -57,15 +57,15 @@
 | Glaccy                           | [Repo](https://github.com/Hikikomori/83559-gllacy) [Deploy](https://hikikomori.github.io/Glaccy)                             | 2016   | <span title='Learning project'>🎓</span> | Сайт магазина по продаже мороженого                                               | HTML, CSS, JavaScript                                                                                                 |
 | Technomart                       | [Repo](https://github.com/Hikikomori/83559-technomart) [Deploy](https://hikikomori.github.io/Technomart)                     | 2015   | <span title='Learning project'>🎓</span> | Сайт магазина инструментов                                                               | HTML, CSS, JavaScript                                                                                                 |
 
-### Рекомендации
+## Рекомендации
 <div>
   <a href='assets/files/Reference Infologistics.pdf' title='Олег Петров (Infologistics, TeamLead)'>
     <img src='assets/files/Reference Infologistics.jpg' />
   </a>
 </div>
 
-### Как со мной связаться?
+## Как со мной связаться?
 
 ✉️  [prusakov.ms@gmail.com](mailto:prusakov.ms@gmail.com)
-<p><img src='assets/icons/Telegram.svg' title='Telegram' alt='Telegram' width='16'> <a href='https://t.me/hikkomori'>@hikkomori</a></p>
-<p><img src='assets/icons/LinkedIn.svg' title='LinkedIn' alt='LinkedIn' width='16'> <a href='www.linkedin.com/in/maksim-prusakov-4865121a5'>LinkedIn</a></p>
+<p><img src='assets/icons/Telegram.svg' title='Telegram' alt='Telegram' width='16'>  <a href='https://t.me/hikkomori'>@hikkomori</a></p>
+<p><img src='assets/icons/LinkedIn.svg' title='LinkedIn' alt='LinkedIn' width='16'>  <a href='www.linkedin.com/in/maksim-prusakov-4865121a5'>LinkedIn</a></p>
