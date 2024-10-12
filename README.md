@@ -28,7 +28,8 @@
   <img src='assets/icons/Webpack.svg' title='Webpack' alt='Webpack' height='40'>  
   <img src='assets/icons/Gulp.svg' title='Gulp' alt='Gulp' height='40'>  
   <img src='assets/icons/AntDesign.svg' title='Ant Design' alt='Ant Design' height='40'>  
-  <img src='assets/icons/Git.svg' title='Git' alt='Git' height='40'>  
+  <img src='assets/icons/Git.svg' title='Git' alt='Git' height='40'>
+  <img src='assets/icons/Jest.svg' title='Jest' alt='Jest' height='40'>
   <img src='assets/icons/Docker.svg' title='Docker' alt='Docker' height='40'>
   <br/><br/>
   <img src='assets/icons/Webstorm.svg' title='Webstorm' alt='Webstorm' height='40'>  
