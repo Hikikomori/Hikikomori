@@ -64,42 +64,51 @@
 ### 💼 Рабочие проекты
 - **[docuForce](https://github.com/Hikikomori/docuforce)** (2024)  
   Система электронного документооборота с поддержкой маршрутов согласования и различными типами ЭП.
-  _TypeScript, React, React Router, Redux, Axios, Formik + Yup, JEST, CSS Modules, i18n, SSE, JWT, Webpack, GitLab CI/CD_
+
+  _**Стек:** TypeScript, React, React Router, Redux, Axios, Formik + Yup, JEST, CSS Modules, i18n, SSE, JWT, Webpack, GitLab CI/CD_
 
 - **[RMKeeper](https://github.com/Hikikomori/rmkeeper)** (2023)  
   Система управления физическим архивным хранением документов и логистикой.
-  _TypeScript, React, React Router, Redux, Axios, Formik + Yup, CSS Modules, i18n, JWT, Webpack, GitLab CI/CD_
+
+  _**Стек:** TypeScript, React, React Router, Redux, Axios, Formik + Yup, CSS Modules, i18n, JWT, Webpack, GitLab CI/CD_
 
 - **[GreenDocs](https://github.com/Hikikomori/greendocs)** (2023)  
   Инструмент для подписания и маршрутизации электронных документов.
-  _TypeScript, React, React Router, Redux Toolkit, Axios, Formik + Yup, CSS Modules, i18n, JWT, Webpack, GitLab CI/CD_
+
+  _**Стек:** TypeScript, React, React Router, Redux Toolkit, Axios, Formik + Yup, CSS Modules, i18n, JWT, Webpack, GitLab CI/CD_
 
 - **[Infologistics Frontend Libraries](https://github.com/Hikikomori/frontend-libraries)** (2024)  
   Внутренняя библиотека UI-компонентов, использовавшаяся во всех продуктах Infologistics. 
-  _TypeScript, React, SCSS Modules, React Styleguidist_
+
+  _**Стек:** TypeScript, React, SCSS Modules, React Styleguidist_
 
 ### 🐈 Pet-проекты
 - **[Cat Generator 9000](https://github.com/Hikikomori/cat-generator)** (2024)  
-  Одностраничное приложение для генерации котиков с фильтрами и галереей.  
-  _TypeScript, Next.js, Ant Design, React Hook Form, Mobx, SCSS_
+  Одностраничное приложение для генерации котиков с фильтрами и галереей.
+
+  _**Стек:** TypeScript, Next.js, Ant Design, React Hook Form, Mobx, SCSS_
 
 ### 📊 Тестовые проекты
 - **[Offline Messenger](https://github.com/Hikikomori/React-Offline-Messenger)** (2019)  
-  Шутливый оффлайн-чат "для очень одиноких людей". Работает в браузере без сервера.  
-  _JavaScript, React, PropTypes, Bootstrap, Webpack_
+  Шутливый оффлайн-чат "для очень одиноких людей". Работает в браузере без сервера.
+
+  _**Стек:** JavaScript, React, PropTypes, Bootstrap, Webpack_
 
 - **[Offline Blog](https://github.com/Hikikomori/React_Offline_Blog)** (2019)  
-  Небольшой оффлайн-блог с возможностью переключения между постами и темами.  
-  _JavaScript, React, ReactRouter, PropTypes, SCSS, БЭМ, Webpack_
+  Небольшой оффлайн-блог с возможностью переключения между постами и темами.
+
+  _**Стек:** JavaScript, React, React Router, PropTypes, SCSS, БЭМ, Webpack_
 
 ### 🎓 Учебные проекты
 - **[Six Cities](https://github.com/Hikikomori/six-cities)** (2019)  
   Сервис поиска жилья с картой и авторизацией.  
-  _TypeScript, React, React Router, Redux, Axios, Leaflet, JEST, Webpack_
+
+  _**Стек:** TypeScript, React, React Router, Redux, Axios, Leaflet, Jest, Webpack_
 
 - **[Big Trip](https://github.com/Hikikomori/83559-big-trip-8)** (2019)  
   Планировщик путешествий с фильтрами и статистикой.  
-  _JavaScript, Chart.js, Webpack_
+
+  _**Стек:** JavaScript, Chart.js, Webpack_
 
 ### 🗂️ Архив учебных проектов (2015–2017)
 Ранние учебные проекты по вёрстке и основам JavaScript.
