@@ -1,72 +1,129 @@
-# Привет ! 👋
+## 👋 Немного обо мне
 
-Меня зовут Максим, я frontend-разработчик с уклоном в TypeScript и React.
+Привет, я фронтенд-разработчик с уклоном в TypeScript и React, в профессии с 2010 года. Начинал с классической вёрстки, со временем перешёл к разработке сложных интерфейсов, архитектуре и поддержке крупных проектов.
 
-## Немного обо мне
+Мне важна ясность в коде и интерфейсах. Люблю, когда результат работы понятен и ощутим — наверное, именно поэтому я выбрал фронтенд, а не бэкенд.
 
-Мой путь во Frontend начался, наверное как и у всех, с осознания того что мне интересно этим заниматься и я получаю удовольствие от достижения видимого результата (кстати именно поэтому Frontend а не Backend)
+Спокойно встраиваюсь в команду, стараюсь быть на одной волне с коллегами и поддерживать общее качество кода. Уважаю архитектурные договорённости и не навязываю «своё видение» без веских причин.
 
-Начал в 2010 году с простой верстки сайтов, постепенно обрастал технологиями и навыками, в том числе путем прохождения курсов и на текущий момент обладаю солидным багажом знаний и умений
+С 2019 по 2023 год был наставником на курсах HTML Academy, помогал новичкам разобраться в основах и сделать уверенный шаг в профессию.
 
-Имеется опыт наставничества на курсах HTML Academy (2019-2023 гг.)
+---
 
-## Технологии и продукты, которые я использую
+## 🛠️ Технологии и инструменты
 
+Технологии и инструменты, которые я использую в работе:
+
+### 🧱 Основы фронтенда
 <div>
   <img src='assets/icons/HTML.svg' title='HTML' alt='HTML' height='40'>  
   <img src='assets/icons/CSS.svg' title='CSS' alt='CSS' height='40'>  
   <img src='assets/icons/SASS.svg' title='SASS / SCSS' alt='SASS / SCSS' height='40'>  
   <img src='assets/icons/Javascript.svg' title='JavaScript' alt='JavaScript' height='40'>  
-  <img src='assets/icons/Typescript.svg' title='TypeScript' alt='TypeScript' height='40'>  
+  <img src='assets/icons/Typescript.svg' title='TypeScript' alt='TypeScript' height='40'>
+</div>
+
+### ⚙️ Библиотеки и фреймворки
+<div>
   <img src='assets/icons/React.svg' title='React' alt='React' height='40'>  
   <img src='assets/icons/ReactRouter.svg' title='React Router' alt='React Router' height='40'>  
   <img src='assets/icons/NextJS.svg' title='Next JS' alt='Next JS' height='40'>  
   <img src='assets/icons/Redux.svg' title='Redux' alt='Redux' height='40'>  
-  <img src='assets/icons/Mobx.svg' title='Mobx' alt='Mobx' height='40'>  
-  <img src='assets/icons/Formik.svg' title='Formik' alt='Formik' height='40'>  
-  <img src='assets/icons/ReactHookForm.svg' title='ReactHookForm' alt='ReactHookForm' height='40'>  
-  <img src='assets/icons/Webpack.svg' title='Webpack' alt='Webpack' height='40'>  
-  <img src='assets/icons/Gulp.svg' title='Gulp' alt='Gulp' height='40'>  
+  <img src='assets/icons/Mobx.svg' title='Mobx' alt='Mobx' height='40'>
+</div>
+
+### 🎛️ UI и взаимодействие
+<div>
   <img src='assets/icons/AntDesign.svg' title='Ant Design' alt='Ant Design' height='40'>  
-  <img src='assets/icons/Git.svg' title='Git' alt='Git' height='40'>
-  <img src='assets/icons/Jest.svg' title='Jest' alt='Jest' height='40'>
-  <img src='assets/icons/Docker.svg' title='Docker' alt='Docker' height='40'>
-  <br/><br/>
-  <img src='assets/icons/Webstorm.svg' title='Webstorm' alt='Webstorm' height='40'>  
-  <img src='assets/icons/Figma.svg' title='Figma' alt='Figma' height='40'>  
-  <img src='assets/icons/Photoshop.svg' title='Photoshop' alt='Photoshop' height='40'>  
-  <img src='assets/icons/Illustrator.svg' title='Illustrator' alt='Illustrator' height='40'>  
-  <img src='assets/icons/Zeplin.svg' title='Zeplin' alt='Zeplin' height='40'>  
-  <img src='assets/icons/GitHub.svg' title='Github' alt='Github' height='40'>  
+  <img src='assets/icons/Formik.svg' title='Formik' alt='Formik' height='40'>  
+  <img src='assets/icons/ReactHookForm.svg' title='React Hook Form' alt='React Hook Form' height='40'>  
+  <img src='assets/icons/i18n.svg' title='i18n' alt='i18n' height='40'>  
+</div>
+
+### 📦 Сборка и CI/CD
+<div>
+  <img src='assets/icons/Webpack.svg' title='Webpack' alt='Webpack' height='40'>
+  <img src='assets/icons/ESLint.svg' title='ESLint' alt='ESLint' height='40'>  
+  <img src='assets/icons/Jest.svg' title='Jest' alt='Jest' height='40'>  
+  <img src='assets/icons/Git.svg' title='Git' alt='Git' height='40'>  
+  <img src='assets/icons/Docker.svg' title='Docker' alt='Docker' height='40'>  
+  <img src='assets/icons/GitHub.svg' title='Github' alt='Github' height='40'>  
   <img src='assets/icons/GitLab.svg' title='Gitlab' alt='Gitlab' height='40'>
 </div>
 
-## Проекты
-
-| Название                 |                                                                                                                        | Год | Тип                                   | Описание                                                                                                 | Стек                                                                                                              |
-| -------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------ | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| Cat generator                    | [Repo](https://github.com/Hikikomori/cat-generator) [Deploy](https://cat-generator-9000.netlify.app)                         | 2024   | <span title='Pet project'>🐈</span>      | Генератор котиков с фильтрацией и галереей                                  | TypeScript, Next.js, Ant Design, React Hook Form, Mobx, SCSS                                                          |
-| Infologistics Frontend Libraries | [Deploy](https://f-front-library-master.dev.info-logistics.eu)                                                            | 2024   | <span title='Work project'>💰</span>     | Библиотека компонентов и стилей для проектов Infologistics                | TypeScript, React, CSS Modules, GitLab CI/CD                                                                          |
-| docuForce                        | [Deploy](https://docuforce.infologistics.ru)                                                                              | 2024   | <span title='Work project'>💰</span>     | Система электронного документооборота                                         | TypeScript, React, React Router, Redux, Axios, Formik + Yup, JEST, CSS Modules, i18n, SSE, JWT, Webpack, GitLab CI/CD |
-| RM-Keeper                        | [Deploy](https://rm-keeper.infologistics.ru)                                                                              | 2023   | <span title='Work project'>💰</span>     | Система управления единицами хранения в архивах и на складах | TypeScript, React, React Router, Redux, Axios, Formik + Yup, CSS Modules, i18n, JWT, Webpack, GitLab CI/CD            |
-| GreenDocs                        | [Deploy](https://greendocs.ilsbrasil.com.br)                                                                              | 2023   | <span title='Work project'>💰</span>     | Инструмент для подписания электронных документов                     | TypeScript, React, React Router, Redux Toolkit, Axios, Formik + Yup, CSS Modules, i18n, JWT, Webpack, GitLab CI/CD    |
-| Offline Messenger                | [Repo](https://github.com/Hikikomori/React-Offline-Messenger) [Deploy](https://hikikomori.github.io/React-Offline-Messenger) | 2019   | <span title='Test project'>📊</span>     | Чат для очень одиноких людей                                                             | JavaScript, React, PropTypes, Bootstrap, Webpack                                                                      |
-| Offline Blog                     | [Repo](https://github.com/Hikikomori/React_Offline_Blog) [Deploy](https://hikikomori.github.io/React_Offline_Blog)           | 2019   | <span title='Test project'>📊</span>     | Оффлайн блог                                                                                          | JavaScript, React, ReactRouter, PropTypes, SCSS, БЭМ, Webpack                                                      |
-| Six cities                       | [Repo](https://github.com/Hikikomori/six-cities)                                                                          | 2019   | <span title='Learning project'>🎓</span> | Сервис для поиска жилья                                                                      | TypeScript, React, React Router, Redux, Axios, Leaflet, JEST, Webpack                                                 |
-| Big trip                         | [Repo](https://github.com/Hikikomori/83559-big-trip-8)                                                                    | 2019   | <span title='Learning project'>🎓</span> | Сервис для планирования путешествий                                              | JavaScript, Chart.js, Webpack                                                                                         |
-| Pink                             | [Repo](https://github.com/Hikikomori/83559-pink) [Deploy](https://hikikomori.github.io/Pink)                                 | 2017   | <span title='Learning project'>🎓</span> | Сайт социальной сети                                                                           | HTML, SCSS, JavaScript, БЭМ, Gulp                                                                                  |
-| Glaccy                           | [Repo](https://github.com/Hikikomori/83559-gllacy) [Deploy](https://hikikomori.github.io/Glaccy)                             | 2016   | <span title='Learning project'>🎓</span> | Сайт магазина по продаже мороженого                                               | HTML, CSS, JavaScript                                                                                                 |
-| Technomart                       | [Repo](https://github.com/Hikikomori/83559-technomart) [Deploy](https://hikikomori.github.io/Technomart)                     | 2015   | <span title='Learning project'>🎓</span> | Сайт магазина инструментов                                                               | HTML, CSS, JavaScript                                                                                                 |
-
-## Рекомендации
+### 🧑‍💻 Инструменты разработки
 <div>
-  <a href='assets/files/Reference Infologistics.pdf' title='Олег Петров (Infologistics, TeamLead)'>
-    <img src='assets/files/Reference Infologistics.jpg' />
-  </a>
+  <img src='assets/icons/Webstorm.svg' title='Webstorm' alt='Webstorm' height='40'>  
+  <img src='assets/icons/Figma.svg' title='Figma' alt='Figma' height='40'>  
 </div>
 
-## Как со мной связаться?
+---
 
-✉️  [prusakov.ms@gmail.com](mailto:prusakov.ms@gmail.com)
-<p><img src='assets/icons/Telegram.svg' title='Telegram' alt='Telegram' width='16'>  <a href='https://t.me/hikkomori'>@hikkomori</a></p>
-<p><img src='assets/icons/LinkedIn.svg' title='LinkedIn' alt='LinkedIn' width='16'>  <a href='www.linkedin.com/in/maksim-prusakov-4865121a5'>LinkedIn</a></p>
+## 💻 Проекты
+
+### 💼 Рабочие проекты
+- **[docuForce](https://github.com/Hikikomori/docuforce)** (2024)  
+  Система электронного документооборота с поддержкой маршрутов согласования и различными типами ЭП.
+  _TypeScript, React, React Router, Redux, Axios, Formik + Yup, JEST, CSS Modules, i18n, SSE, JWT, Webpack, GitLab CI/CD_
+
+- **[RMKeeper](https://github.com/Hikikomori/rmkeeper)** (2023)  
+  Система управления физическим архивным хранением документов и логистикой.
+  _TypeScript, React, React Router, Redux, Axios, Formik + Yup, CSS Modules, i18n, JWT, Webpack, GitLab CI/CD_
+
+- **[GreenDocs](https://github.com/Hikikomori/greendocs)** (2023)  
+  Инструмент для подписания и маршрутизации электронных документов.
+  _TypeScript, React, React Router, Redux Toolkit, Axios, Formik + Yup, CSS Modules, i18n, JWT, Webpack, GitLab CI/CD_
+
+- **[Infologistics Frontend Libraries](https://github.com/Hikikomori/frontend-libraries)** (2024)  
+  Внутренняя библиотека UI-компонентов, использовавшаяся во всех продуктах Infologistics. 
+  _TypeScript, React, SCSS Modules, React Styleguidist_
+
+### 🐈 Pet-проекты
+- **[Cat Generator 9000](https://github.com/Hikikomori/cat-generator)** (2024)  
+  Одностраничное приложение для генерации котиков с фильтрами и галереей.  
+  _TypeScript, Next.js, Ant Design, React Hook Form, Mobx, SCSS_
+
+### 📊 Тестовые проекты
+- **[Offline Messenger](https://github.com/Hikikomori/React-Offline-Messenger)** (2019)  
+  Шутливый оффлайн-чат "для очень одиноких людей". Работает в браузере без сервера.  
+  _JavaScript, React, PropTypes, Bootstrap, Webpack_
+
+- **[Offline Blog](https://github.com/Hikikomori/React_Offline_Blog)** (2019)  
+  Небольшой оффлайн-блог с возможностью переключения между постами и темами.  
+  _JavaScript, React, ReactRouter, PropTypes, SCSS, БЭМ, Webpack_
+
+### 🎓 Учебные проекты
+- **[Six Cities](https://github.com/Hikikomori/six-cities)** (2019)  
+  Сервис поиска жилья с картой и авторизацией.  
+  _TypeScript, React, React Router, Redux, Axios, Leaflet, JEST, Webpack_
+
+- **[Big Trip](https://github.com/Hikikomori/83559-big-trip-8)** (2019)  
+  Планировщик путешествий с фильтрами и статистикой.  
+  _JavaScript, Chart.js, Webpack_
+
+### 🗂️ Архив учебных проектов (2015–2017)
+Ранние учебные проекты по вёрстке и основам JavaScript.
+
+- [Technomart](https://github.com/Hikikomori/83559-technomart) — вёрстка сайта интернет-магазина (2015)
+- [Glaccy](https://github.com/Hikikomori/83559-gllacy) — сайт-магазин мороженого (2016)
+- [Pink](https://github.com/Hikikomori/83559-pink) — адаптивный сайт социальной сети (2017)
+
+---
+
+## 💬 Рекомендации
+
+> _Максим продемонстрировал себя как выдающийся специалист в области фронтенд-разработки. Он не только выполнял самые сложные и критически важные задачи, но и оказывал значительное влияние на производительность и качество приложений._
+>
+> _Отличительной чертой Максима является его продуктовый подход: он предлагал решения, участвовал в их реализации и в критические моменты заменял меня в качестве тимлида._
+>
+> — **Олег Петров**, тимлид, Infologistics
+
+📄 [Полный текст рекомендательного письма (PDF)](assets/files/Reference%20Infologistics.pdf)
+
+---
+
+## 📫 Контакты
+
+- ✉️ [prusakov.ms@gmail.com](mailto:prusakov.ms@gmail.com)
+- 💬 [@hikikomori (Telegram)](https://t.me/hikikomori)
+- 🔗 [LinkedIn](https://linkedin.com/in/maksim-prusakov-4865121a5)
